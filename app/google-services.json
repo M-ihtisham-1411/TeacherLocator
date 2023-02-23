@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767488072707",
+    "project_id": "teacher-locater",
+    "storage_bucket": "teacher-locater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767488072707:android:d6b94ad9eb3cb0830bc236",
+        "android_client_info": {
+          "package_name": "com.example.teacherlocater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767488072707-n2lcmd67lvmktu26q4gm1oj49grh7ca0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxSZ84iEz64uYKxYuVD-0QF-ig_b5x4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767488072707-n2lcmd67lvmktu26q4gm1oj49grh7ca0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
